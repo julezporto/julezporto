@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julezporto
-- 👀 I’m interested in UX/UI and the cloud
-- 🌱 I’m currently learning docker, kubernetes, and AWS
+- 👀 I’m interested in web design and development and data analysis
+- 🌱 I’m currently learning machine learning, databases, and big data management
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: email jvporto@wpi.edu
 
