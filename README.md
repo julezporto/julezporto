@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julezporto
-- 👀 I’m interested in web design and development and data analysis
-- 🌱 I’m currently learning machine learning, databases, and big data management
+- 👀 I’m interested in databases, data analysis, and web design/development
+- 🌱 I’m currently learning databases, big data management, and machine learning
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: email jvporto@wpi.edu
 
